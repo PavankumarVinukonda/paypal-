@@ -10,8 +10,8 @@ const paypal = require('paypal-rest-sdk');
 
 paypal.configure({
     'mode': 'sandbox', //sandbox or live
-    'client_id': 'Acl1LA-uavQg-Yk9m7tW6Z4a-PQemT4_BvxUUTvfX-1cb2gkxK2Q_NyHX7NEwVvJOnMGVX-oFEDkJ7Fe',
-    'client_secret': 'EPtlBcMfzWzuXHPClSdCNETQ6oLYETh1gqM_aBa9U9KxL-daH1e1W47T0KdGmWLwf3Sf5aRB6UPPU1Oc'
+    'client_id': 'your c_id',
+    'client_secret': 'your c_secret'
   });
 
   
